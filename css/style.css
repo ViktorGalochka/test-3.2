@@ -24,6 +24,7 @@ input:active, input:focus {
     display: flex;
     flex-direction: column;
     width: 100%;
+    max-width: 1500px;
     min-height: 100vh;
     margin-top: 15px;
     padding: 15px;
