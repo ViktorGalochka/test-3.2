@@ -23,7 +23,6 @@ input:active, input:focus {
 .book-search-result {
     display: flex;
     flex-direction: column;
-    align-self: flex-start;
     width: 100%;
     min-height: 100vh;
     margin-top: 15px;
